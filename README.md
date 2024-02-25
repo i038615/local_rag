@@ -1,6 +1,7 @@
 # Chat PDF Assistant
 This project enables a local chat interface for interacting with PDF documents.
 The code implements a Streamlit application that allows users to interact with a chatbot capable of understanding and answering questions based on the content of uploaded PDF documents. It leverages the LangChain Community libraries for processing and querying document contents using a vector store and a local LLM Ollama Mistral. The application is designed for local use, providing a privacy-focused way to analyze and extract information from documents.
+<img width="1312" alt="image" src="https://github.com/i038615/local_rag/assets/44123175/19d2c328-725f-4e74-b6f6-2ba07feb341f">
 
 ## Dependencies
 - **LangChain Community**: For vector storage, chat models, embeddings, and document loading.
